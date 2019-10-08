@@ -10,7 +10,7 @@
 - Sử dụng ngôn ngữ Python, với thư viện tensorflow và keras
 - Chạy trên Google Colab (hoặc các notebook online cloud hỗ trợ chạy machine learning khác)
 
-##Yêu cầu
+## Yêu cầu
 - Sinh viên đã biết cơ bản python và thư viện numpy
 
 ## Hình thức
