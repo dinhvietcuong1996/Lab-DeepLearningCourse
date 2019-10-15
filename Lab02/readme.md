@@ -1,4 +1,4 @@
-## Thực hành 01:
+## Thực hành 02:
 - Nội dung: trong file Lab02.ipynb
 - Deadline: 23h59, thứ 3, ngày 22/10/2019
 
